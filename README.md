@@ -1,2 +1,7 @@
-# PROJECT-1.
-Analysis of vacancies on the site HH.ru
+# My Data Science projects
+
+From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist-pro).
+
+# Проекты
+
+* [PROJECT-1. Анализ вакансий из HeadHunter](https://github.com/Yurov89/PROJECT-1.)
