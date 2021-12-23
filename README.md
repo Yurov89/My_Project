@@ -4,4 +4,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 # Проекты
 
-* [PROJECT-1. Анализ вакансий из HeadHunter](https://github.com/Yurov89/PROJECT-1.)
+* [PROJECT-1. Анализ вакансий из HeadHunter](https://github.com/Yurov89/My_Project)
